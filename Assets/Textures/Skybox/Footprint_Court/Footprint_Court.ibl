@@ -1,0 +1,41 @@
+[Header]
+ICOfile = "Footprint_Court_Thumb.jpg"
+PREVIEWfile = "Footprint_Court_preview.jpg"
+Name = "Footprint Court"
+Author = "Blochi"
+Location = "Hollywood"
+Comment = "Dawn, at the entrance of the Mans Chinese Theatre"
+GEOlat = 34.10174409112319
+GEOlong = -118.34098219871521
+Link = "http://www.hdrlabs.com/sibl/archive.html"
+Date = "2007:03:12"
+Time = "05:50:00"
+Height = 1.5
+North = 0.5
+
+[Background]
+BGfile = "Footprint_Court_8k_TMap.jpg"
+BGmap = 1
+BGu = 0.000000
+BGv = 0.000000
+BGheight = 4000
+
+[Enviroment]
+EVfile = "Footprint_Court_Env.hdr"
+EVmap = 1
+EVu = 0.000000
+EVv = 0.000000
+EVheight = 180
+EVmulti = 1.438596
+EVgamma = 1.473684
+
+[Reflection]
+REFfile = "Footprint_Court_2k.hdr"
+REFmap = 1
+REFu = 0.000000
+REFv = 0.000000
+REFheight = 1024
+REFmulti = 1.719298
+REFgamma = 1.684211
+
+
